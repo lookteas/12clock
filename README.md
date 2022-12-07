@@ -4,4 +4,4 @@
 
 #### 可以展示当前时辰对应的经络及适合养身方式
 
-![效果图](https://github.com/lookteas/12clock/blob/main/demo.pngraw=true)
+![效果图](https://github.com/lookteas/12clock/blob/main/demo.png?raw=true)
